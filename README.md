@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CasperCodeWizard
+- 👋 Hi, I’m @CasperTheFriendlyCodeWizard
 - 👀 I’m interested R, Python & C# programming ...
 - 🌱 I’m currently learning abot OMOP
 - 💞️ I’m looking to collaborate on OMOP
