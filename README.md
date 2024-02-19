@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CasperTheFriendlyCodeWizard
 - 👀 I’m interested R, Python & C# programming ...
-- 🌱 I’m currently learning abot OMOP
+- 🌱 I’m currently learning about OMOP
 - 💞️ I’m looking to collaborate on OMOP
 - 📫 How to reach me ...
 
